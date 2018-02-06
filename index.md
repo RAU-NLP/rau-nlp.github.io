@@ -13,7 +13,7 @@
 
 I неделя: 
 [слайды](https://docs.google.com/presentation/d/1HmLNAyfuXGqEEcEDDwXbz88StRuLv5ZgdTmWnGeolY4/edit?usp=sharing), 
-[чтение](norvig.com/spell-correct.html)
+[чтение](https://norvig.com/spell-correct.html)
 
 
 #### Материалы
