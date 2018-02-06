@@ -11,6 +11,10 @@
 
 <https://t.me/joinchat/GZeYOhCR_QfqYg-OksF0vA>
 
+I неделя  
+[слайды](https://docs.google.com/presentation/d/1HmLNAyfuXGqEEcEDDwXbz88StRuLv5ZgdTmWnGeolY4/edit?usp=sharing)  
+[чтение](norvig.com/spell-correct.html)
+
 
 #### Материалы
 
