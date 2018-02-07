@@ -9,7 +9,8 @@
 
 Пожалуйста, присоединитесь к списку <https://groups.google.com/group/rau-nlp-2017-2018-ii>
 
-Можете также присоединиться группе <https://t.me/joinchat/GZeYOhCR_QfqYg-OksF0vA>
+Можете также присоединиться к группе [Telegram](https://t.me/joinchat/GZeYOhCR_QfqYg-OksF0vA)
+и каналу [Slack](https://rau-python.slack.com/messages/C94H2QBLG/) 
 
 
 **I неделя**
