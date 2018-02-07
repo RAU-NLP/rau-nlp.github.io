@@ -4,13 +4,13 @@
 
 #### II семестр 2017-2018 уч. года
 
-Средам, часы 10:45 – 11:30 и 11:35 – 12:20
+Урок: средам, часы 10:45 – 11:30 и 11:35 – 12:20  
+Часы открытой двери: по субботам, по заказу
 
 Пожалуйста, присоединитесь к списку <https://groups.google.com/group/rau-nlp-2017-2018-ii>
 
 Можете также присоединиться группе <https://t.me/joinchat/GZeYOhCR_QfqYg-OksF0vA>
 
-Часы открытой двери: по субботам, по заказу
 
 **I неделя**
 [Slides](https://docs.google.com/presentation/d/1HmLNAyfuXGqEEcEDDwXbz88StRuLv5ZgdTmWnGeolY4/edit?usp=sharing)    
