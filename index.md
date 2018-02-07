@@ -21,8 +21,8 @@ Try the [Google Cloud demo](https://cloud.google.com/natural-language/) (scroll 
 June 2013  
 Emily M. Bender, University of Washington  
 
-[Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
-2017     
+[*Speech and Language Processing (3rd ed. draft)*](https://web.stanford.edu/~jurafsky/slp3/)  
+October 2017 draft  
 Dan Jurafsky, Stanford University  
 James H. Martin, University of Colorado
 
