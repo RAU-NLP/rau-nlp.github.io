@@ -14,7 +14,7 @@
 I неделя: 
 [слайды](https://docs.google.com/presentation/d/1HmLNAyfuXGqEEcEDDwXbz88StRuLv5ZgdTmWnGeolY4/edit?usp=sharing), 
 [чтение](https://norvig.com/spell-correct.html), 
-[Google Cloud Pre demo](https://cloud.google.com/natural-language/), 
+[Google Cloud demo](https://cloud.google.com/natural-language/), 
 [spaCy demo](https://demos.explosion.ai/displacy/)
 
 
