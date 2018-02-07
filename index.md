@@ -13,7 +13,7 @@
 ##### I неделя: 
 [Slides](https://docs.google.com/presentation/d/1HmLNAyfuXGqEEcEDDwXbz88StRuLv5ZgdTmWnGeolY4/edit?usp=sharing)    
 Read [Norvig's spelling corrector](https://norvig.com/spell-correct.html)  
-Try the [Google Cloud demo](https://cloud.google.com/natural-language/) (scroll down) and the [spaCy demo](https://demos.explosion.ai/displacy/)
+Try the [Google Cloud demo](https://cloud.google.com/natural-language/) (scroll down) and the [spaCy demo](https://demos.explosion.ai/displacy/?text=Pope%27s%20baby%20steps%20on%20gays)
 
 #### Материалы
 
