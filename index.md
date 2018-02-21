@@ -22,6 +22,11 @@ Try the [Google Cloud demo](https://cloud.google.com/natural-language/) (scroll 
 [Slides](https://docs.google.com/presentation/d/1WKYJHSn2th1mLsQINxa9i6EI_93bLPahNj5TbIGhNU8/edit?usp=sharing)  
 Break a parser - install spaCy, find an example that breaks it, explain why
 
+**III неделя**  
+[Slides](https://docs.google.com/presentation/d/18UKH-lkMJxF0dqiZn4jSdH4AD6Um35V79D-m7TCe5Tc/edit?usp=sharing) . 
+Review NLP fundamentals ([tokens](https://en.wikipedia.org/wiki/Lexical_analysis), [lemmata](https://en.wikipedia.org/wiki/Lemma_(morphology)), surface forms, [n-grams](https://en.wikipedia.org/wiki/N-gram), [typology](https://en.wikipedia.org/wiki/Linguistic_typology)) . 
+Play with [language](https://github.com/signaln/language) library `ngrams` module  
+Play with [spaCy token attributes](https://spacy.io/api/token#attributes) like `lemma_`, `is_oov` and `pos_`
 
 #### Материалы
 
