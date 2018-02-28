@@ -28,6 +28,11 @@ Review NLP fundamentals ([tokens](https://en.wikipedia.org/wiki/Lexical_analysis
 Play with [language](https://github.com/signaln/language) library `ngrams` module  
 Play with [spaCy token attributes](https://spacy.io/api/token#attributes) like `lemma_`, `is_oov` and `pos_`
 
+**IV неделя**  
+[Slides](https://docs.google.com/presentation/d/1hxqh4g94p2O2mWHsk1qj7Ax_RD5uZhquwjFAxCEPpNk/edit?usp=sharing)  
+Review NLP fundamentals for upcoming exam  
+
+
 #### Материалы
 
 [*Linguistic Fundamentals for Natural Language Processing: 100 Essentials from Morphology and Syntax*](http://www.morganclaypool.com/doi/abs/10.2200/S00493ED1V01Y201303HLT020)  
