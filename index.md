@@ -34,7 +34,7 @@ Review NLP fundamentals for upcoming exam
 
 **V неделя**  
 [Slides](https://docs.google.com/presentation/d/1jxqlF6cu2tbKis1nI--XAJNlsm64Y0lx_zNJRBOag2A/edit?usp=sharing)  
-Visualise word embeddings at [projector.tensorflow.org/](http://projector.tensorflow.org/)  
+Visualise word embeddings at [projector.tensorflow.org](http://projector.tensorflow.org/)  
 Download the [Amazon Reviews sentiment dataset](https://www.kaggle.com/bittlingmayer/amazonreviews)  
 Clone and build [fastText](https://fasttext.cc/docs/en/support.html#building-fasttext)  
 Email your models and any pre-processing script to the instructor, and email your score and training time to the group
