@@ -36,8 +36,8 @@ Review NLP fundamentals for upcoming exam
 Exam    
 [Slides](https://docs.google.com/presentation/d/1jxqlF6cu2tbKis1nI--XAJNlsm64Y0lx_zNJRBOag2A/edit?usp=sharing)  
 
-**IV неделя**  
-Slides to come
+**VI неделя**  
+Slides to come  
 Visualise word embeddings at [projector.tensorflow.org](http://projector.tensorflow.org/)  
 Download the [Amazon Reviews sentiment dataset](https://www.kaggle.com/bittlingmayer/amazonreviews)  
 Clone and build [fastText](https://fasttext.cc/docs/en/support.html#building-fasttext)  
