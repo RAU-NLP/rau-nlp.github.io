@@ -38,7 +38,7 @@ Exam
 
 **VI неделя**  
 Slides to come  
-Visualise word embeddings at [projector.tensorflow.org](http://projector.tensorflow.org/)  
+Visualise word embeddings at [projector.tensorflow.org](http://projector.tensorflow.org/) or [anvaka.github.io/pm/#/galaxy/word2vec-wiki](https://anvaka.github.io/pm/#/galaxy/word2vec-wiki?cx=1454&cy=502&cz=2037&lx=0.1092&ly=-0.3779&lz=0.0449&lw=0.9183&ml=300&s=1.75&l=1&v=d50_clean_small)  
 Download the [Amazon Reviews sentiment dataset](https://www.kaggle.com/bittlingmayer/amazonreviews)  
 Clone and build [fastText](https://fasttext.cc/docs/en/support.html#building-fasttext)  
 Email your models and any pre-processing script to the instructor, and email your score and training time to the group
