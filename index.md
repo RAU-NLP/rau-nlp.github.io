@@ -37,7 +37,7 @@ Exam
 [Slides](https://docs.google.com/presentation/d/1jxqlF6cu2tbKis1nI--XAJNlsm64Y0lx_zNJRBOag2A/edit?usp=sharing)  
 
 **VI неделя**  
-Slides to come  
+[Slides](https://docs.google.com/presentation/d/1NMwroWNz-ZEz_d3ekAksrddOaHf8c6rxWAM6Udpz0Dc/edit?usp=sharing)   
 Visualise word embeddings at [projector.tensorflow.org](http://projector.tensorflow.org/) or [anvaka.github.io/pm/#/galaxy/word2vec-wiki](https://anvaka.github.io/pm/#/galaxy/word2vec-wiki?cx=1454&cy=502&cz=2037&lx=0.1092&ly=-0.3779&lz=0.0449&lw=0.9183&ml=300&s=1.75&l=1&v=d50_clean_small)  
 Download the [Amazon Reviews sentiment dataset](https://www.kaggle.com/bittlingmayer/amazonreviews)  
 Clone and build [fastText](https://fasttext.cc/docs/en/support.html#building-fasttext)  
