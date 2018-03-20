@@ -4,13 +4,14 @@
 
 #### II семестр 2017-2018 уч. года
 
+[Учебный план](https://docs.google.com/document/d/1VlCBWiRffkS78M4oDUxcQPGt9QDg6eiyVeQ2tvsMoMs/view)
+
 Урок: средам, часы 10:45 – 11:30 и 11:35 – 12:20  
 Часы открытой двери: по субботам, по заказу
 
 Пожалуйста, присоединитесь к списку <https://groups.google.com/group/rau-nlp-2017-2018-ii>
 
-Можете также присоединиться к группе [Telegram](https://t.me/joinchat/GZeYOhCR_QfqYg-OksF0vA)
-и каналу [Slack](https://rau-python.slack.com/messages/C94H2QBLG/) 
+Можете также присоединиться к каналу [Slack](https://rau-python.slack.com/messages/C94H2QBLG/) 
 
 
 **I неделя**  
