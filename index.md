@@ -49,7 +49,7 @@ Email your models and any pre-processing script to the instructor, and email you
 [Slides](https://docs.google.com/presentation/d/1Yl8Ayb5CkP6DTipjUBPfaw7IVMKoAVwzUuAdJHkg7ww/view)  
 Think about [project ideas](https://docs.google.com/presentation/d/135eKtGlWQReBq7L_L3BlKAPJwcW-T6ITkMxyE53sYBU/view)
 Assignment:  
-Train a fastText model to distinguish between three languages written in the same alphabet (for example English, Spanish and Russian translit)
+Train a fastText model to distinguish between three languages written in the same alphabet (for example English, Spanish and Russian translit), see [fasttext.cc/blog/2017/10/02/blog-post.html](https://fasttext.cc/blog/2017/10/02/blog-post.html)
 
 #### Материалы
 
