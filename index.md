@@ -51,6 +51,10 @@ Think about [project ideas](https://docs.google.com/presentation/d/135eKtGlWQReB
 Assignment:  
 Train a fastText model to distinguish between three languages written in the same alphabet (for example English, Spanish and Russian translit), see [fasttext.cc/blog/2017/10/02/blog-post.html](https://fasttext.cc/blog/2017/10/02/blog-post.html)
 
+**VIII неделя**  
+[Slides](https://docs.google.com/presentation/d/1lCSkq6l1mAoLGcwf5KYEWUoTIGW7bNVRa-VvSrFkUOI/view)  
+Look at Twitter lang id eval [blog post](https://blog.twitter.com/engineering/en_us/a/2015/evaluating-language-identification-performance.html), fastText lang id [blog post](https://fasttext.cc/blog/2017/10/02/blog-post.html), YerevaNN translit [blog post](https://yerevann.github.io/2016/09/09/automatic-transliteration-with-lstm/), spaCy sense2vec [blog post](https://explosion.ai/blog/sense2vec-with-spacy) and [demo](https://github.com/explosion/sense2vec-demo), spaCy adding a language [instructions](https://spacy.io/usage/adding-languages) and [blog post](https://explosion.ai/blog/german-model), Quora question pairs [challenge](https://www.kaggle.com/c/quora-question-pairs), NYU [Winograd Schema Challenge](https://en.wikipedia.org/wiki/Winograd_Schema_Challenge) and [rules and dataset](https://cs.nyu.edu/faculty/davise/papers/WinogradSchemas/WS.html)
+
 #### Материалы
 
 [*Linguistic Fundamentals for Natural Language Processing: 100 Essentials from Morphology and Syntax*](http://www.morganclaypool.com/doi/abs/10.2200/S00493ED1V01Y201303HLT020)  
