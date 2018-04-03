@@ -10,7 +10,7 @@ Links to the GitHub or GitLab repo or other place where your work is happening.
 
 ### Abstract
 
-A short paragraph or two explaining the idea.  What is the input?  What is the output?
+A short paragraph or two explaining the problem and the idea.  What is the input?  What is the output?
 
 
 ### Impact
