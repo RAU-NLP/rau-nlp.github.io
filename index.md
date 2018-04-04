@@ -56,7 +56,7 @@ Train a fastText model to distinguish between three languages written in the sam
 Look at Twitter lang id eval [blog post](https://blog.twitter.com/engineering/en_us/a/2015/evaluating-language-identification-performance.html), fastText lang id [blog post](https://fasttext.cc/blog/2017/10/02/blog-post.html), YerevaNN translit [blog post](https://yerevann.github.io/2016/09/09/automatic-transliteration-with-lstm/), spaCy sense2vec [blog post](https://explosion.ai/blog/sense2vec-with-spacy) and [demo](https://github.com/explosion/sense2vec-demo), spaCy adding a language [instructions](https://spacy.io/usage/adding-languages) and [blog post](https://explosion.ai/blog/german-model), Quora question pairs [challenge](https://www.kaggle.com/c/quora-question-pairs), NYU [Winograd Schema Challenge](https://en.wikipedia.org/wiki/Winograd_Schema_Challenge) and [rules and dataset](https://cs.nyu.edu/faculty/davise/papers/WinogradSchemas/WS.html)
 
 **IX неделя**  
-[Slide](https://docs.google.com/presentation/d/19xDaRa-w1J-y--PJInpBVm_Itg1JEfXftpicRv9NDZs/view)  
+[Slides](https://docs.google.com/presentation/d/19xDaRa-w1J-y--PJInpBVm_Itg1JEfXftpicRv9NDZs/view)  
 Write project proposal according to the [project proposal guidelines](https://rau-nlp.github.io/files/project-proposal.html)  
 Submit a link to the git repo with the proposal to the class mailing list  
 Reading on seq2seq: [github.com/google/seq2seq](https://github.com/google/seq2seq), [Tensorflow tutorial](https://www.tensorflow.org/tutorials/seq2seq)
