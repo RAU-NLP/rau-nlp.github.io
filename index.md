@@ -61,6 +61,16 @@ Write project proposal according to the [project proposal guidelines](https://ra
 Submit a link to the git repo with the proposal to the class mailing list  
 Reading on seq2seq: [github.com/google/seq2seq](https://github.com/google/seq2seq), [Tensorflow tutorial](https://www.tensorflow.org/tutorials/seq2seq)
 
+**X неделя**  
+YerevaNN guest lecturer  
+[Slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture10.pdf) from Stanford CS 231N  
+Experiment with char-RNNs on an interesting text corpus or even source code
+
+**XI неделя**  
+YerevaNN guest lecturer  
+
+
+
 #### Материалы
 
 [*Linguistic Fundamentals for Natural Language Processing: 100 Essentials from Morphology and Syntax*](http://www.morganclaypool.com/doi/abs/10.2200/S00493ED1V01Y201303HLT020)  
