@@ -34,7 +34,7 @@ Play with [spaCy token attributes](https://spacy.io/api/token#attributes) like `
 Review NLP fundamentals for upcoming exam  
 
 **V неделя**  
-Exam    
+Exam I     
 [Slides](https://docs.google.com/presentation/d/1jxqlF6cu2tbKis1nI--XAJNlsm64Y0lx_zNJRBOag2A/view)  
 
 **VI неделя**  
@@ -56,19 +56,25 @@ Train a fastText model to distinguish between three languages written in the sam
 Look at Twitter lang id eval [blog post](https://blog.twitter.com/engineering/en_us/a/2015/evaluating-language-identification-performance.html), fastText lang id [blog post](https://fasttext.cc/blog/2017/10/02/blog-post.html), YerevaNN translit [blog post](https://yerevann.github.io/2016/09/09/automatic-transliteration-with-lstm/), spaCy sense2vec [blog post](https://explosion.ai/blog/sense2vec-with-spacy) and [demo](https://github.com/explosion/sense2vec-demo), spaCy adding a language [instructions](https://spacy.io/usage/adding-languages) and [blog post](https://explosion.ai/blog/german-model), Quora question pairs [challenge](https://www.kaggle.com/c/quora-question-pairs), NYU [Winograd Schema Challenge](https://en.wikipedia.org/wiki/Winograd_Schema_Challenge) and [rules and dataset](https://cs.nyu.edu/faculty/davise/papers/WinogradSchemas/WS.html)
 
 **IX неделя**  
+Quiz I  
 [Slides](https://docs.google.com/presentation/d/19xDaRa-w1J-y--PJInpBVm_Itg1JEfXftpicRv9NDZs/view)  
 Write project proposal according to the [project proposal guidelines](https://rau-nlp.github.io/files/project-proposal.html)  
 Submit a link to the git repo with the proposal to the class mailing list  
 Reading on seq2seq: [github.com/google/seq2seq](https://github.com/google/seq2seq), [Tensorflow tutorial](https://www.tensorflow.org/tutorials/seq2seq)
 
-**X неделя**  
+**X-XI неделя**  
 YerevaNN guest lecturer  
 [Slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture10.pdf) from Stanford CS 231N  
 Experiment with char-RNNs on an interesting text corpus or even source code
 
-**XI неделя**  
-YerevaNN guest lecturer  
+**XII**
+[Notes](https://docs.google.com/document/d/13SBGoP2db5joPmWdg91k2OzBmZ-XTPSjmSiOMu31KJ0/view) on machine translation  
+Project updates  
+More reading: byte-pair encodings for deep learning as presented in [*Neural Machine Translation of Rare Words with Subword Units*] by Sennrich, Haddow and Birch
 
+**XIII**
+Quiz II (by email)  
+Project presentations (by email)  
 
 
 #### Материалы
