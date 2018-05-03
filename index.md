@@ -1,8 +1,6 @@
 
-## Natural Language Processing
-Российско-Армянский Университет
-
-#### II семестр 2017-2018 уч. года
+# Natural Language Processing
+Российско-Армянский Университет, II семестр 2017-2018 уч. года
 
 [Учебный план](https://docs.google.com/document/d/1VlCBWiRffkS78M4oDUxcQPGt9QDg6eiyVeQ2tvsMoMs/view)
 
@@ -13,6 +11,14 @@
 
 Можете также присоединиться к каналу [Slack](https://rau-python.slack.com/messages/C94H2QBLG/) 
 
+### Проекты
+
+#### d-lemma
+*Lemmatisation using Deep Learning*, Tsolak Ghukasyan  
+[github.com/tsolakghukasyan/d-lemma](https://github.com/tsolakghukasyan/d-lemma)
+
+
+### уроки и задания
 
 **I неделя**  
 [Slides](https://docs.google.com/presentation/d/1HmLNAyfuXGqEEcEDDwXbz88StRuLv5ZgdTmWnGeolY4/view)  
@@ -77,7 +83,7 @@ Quiz II (by email)
 Project presentations (by email)  
 
 
-#### Материалы
+### Материалы
 
 [*Linguistic Fundamentals for Natural Language Processing: 100 Essentials from Morphology and Syntax*](http://www.morganclaypool.com/doi/abs/10.2200/S00493ED1V01Y201303HLT020)  
 June 2013  
@@ -91,3 +97,4 @@ James H. Martin, University of Colorado
 [*A Primer on Neural Network Models for Natural Language Processing*](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)  
 2015 draft  
 Yoav Goldberg, Bar-Ilan University  
+
