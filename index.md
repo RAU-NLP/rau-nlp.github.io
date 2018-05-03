@@ -73,12 +73,12 @@ YerevaNN guest lecturer
 [Slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture10.pdf) from Stanford CS 231N  
 Experiment with char-RNNs on an interesting text corpus or even source code
 
-**XII**
+**XII**  
 [Notes](https://docs.google.com/document/d/13SBGoP2db5joPmWdg91k2OzBmZ-XTPSjmSiOMu31KJ0/view) on machine translation  
 Project updates  
 More reading: byte-pair encodings for deep learning as presented in [*Neural Machine Translation of Rare Words with Subword Units*] by Sennrich, Haddow and Birch
 
-**XIII**
+**XIII**  
 Quiz II (by email)  
 Project presentations (by email)  
 
