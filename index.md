@@ -11,14 +11,14 @@
 
 Можете также присоединиться к каналу [Slack](https://rau-python.slack.com/messages/C94H2QBLG/) 
 
-### Проекты
+## Проекты
 
-#### d-lemma
+### d-lemma
 *Lemmatisation using Deep Learning*, Tsolak Ghukasyan  
 [github.com/tsolakghukasyan/d-lemma](https://github.com/tsolakghukasyan/d-lemma)
 
 
-### уроки и задания
+## уроки и задания
 
 **I неделя**  
 [Slides](https://docs.google.com/presentation/d/1HmLNAyfuXGqEEcEDDwXbz88StRuLv5ZgdTmWnGeolY4/view)  
@@ -83,7 +83,7 @@ Quiz II (by email)
 Project presentations (by email)  
 
 
-### Материалы
+## Материалы
 
 [*Linguistic Fundamentals for Natural Language Processing: 100 Essentials from Morphology and Syntax*](http://www.morganclaypool.com/doi/abs/10.2200/S00493ED1V01Y201303HLT020)  
 June 2013  
