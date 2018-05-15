@@ -25,6 +25,10 @@
 *Text author style reduction - identifying and applying style*, Harutyun Beybutyan
 [github.com/hbeybutyan/authorify](https://github.com/hbeybutyan/authorify)
 
+### Misclassification detector
+Harutyun Shmavonyan
+[github.com/harutyun3172800/Misclassification_detector](https://github.com/harutyun3172800/Misclassification_detector)
+
 ## уроки и задания
 
 **I неделя**  
@@ -89,6 +93,11 @@ More reading: byte-pair encodings for deep learning as presented in [*Neural Mac
 Quiz II (by email)  
 Project presentations (by email)  
 
+**XIV**  
+День победы
+
+**XV**
+coming soon
 
 ## Материалы
 
