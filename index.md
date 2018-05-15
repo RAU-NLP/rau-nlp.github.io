@@ -17,6 +17,10 @@
 *Lemmatisation using Deep Learning*, Tsolak Ghukasyan  
 [github.com/tsolakghukasyan/d-lemma](https://github.com/tsolakghukasyan/d-lemma)
 
+### Content Parsing
+*Finding the main content of web pages*, Sargis Abrahamyan    
+[github.com/sargisabrahamyan/contentparser](https://github.com/sargisabrahamyan/contentparser)
+
 
 ## уроки и задания
 
