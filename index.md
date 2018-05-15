@@ -21,6 +21,9 @@
 *Finding the main content of web pages*, Sargis Abrahamyan    
 [github.com/sargisabrahamyan/contentparser](https://github.com/sargisabrahamyan/contentparser)
 
+### Authorify
+*Text author style reduction - identifying and applying style*, Harutyun Beybutyan
+[github.com/hbeybutyan/authorify](https://github.com/hbeybutyan/authorify)
 
 ## уроки и задания
 
