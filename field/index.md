@@ -132,3 +132,5 @@ http://approximatelycorrect.com/2017/09/26/a-random-walk-through-emnlp-2017/
 
 https://aiindex.org/  
 http://nathan.ai
+
+https://nlpguide.github.io/2017/
