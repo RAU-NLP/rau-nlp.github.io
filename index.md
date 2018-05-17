@@ -97,7 +97,8 @@ Project presentations (by email)
 День победы
 
 **XV**  
-coming soon
+[nlpguide.github.io](https://nlpguide.github.io)  
+[nlpguide.github.io/2017](https://nlpguide.github.io/2017)  
 
 ## Материалы
 
