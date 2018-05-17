@@ -22,11 +22,11 @@
 [github.com/sargisabrahamyan/contentparser](https://github.com/sargisabrahamyan/contentparser)
 
 ### Authorify
-*Text author style reduction - identifying and applying style*, Harutyun Beybutyan
+*Text author style reduction - identifying and applying style*, Harutyun Beybutyan  
 [github.com/hbeybutyan/authorify](https://github.com/hbeybutyan/authorify)
 
 ### Misclassification detector
-Harutyun Shmavonyan
+Harutyun Shmavonyan  
 [github.com/harutyun3172800/Misclassification_detector](https://github.com/harutyun3172800/Misclassification_detector)
 
 ## уроки и задания
@@ -96,7 +96,7 @@ Project presentations (by email)
 **XIV**  
 День победы
 
-**XV**
+**XV**  
 coming soon
 
 ## Материалы
