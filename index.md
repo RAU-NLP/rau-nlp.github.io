@@ -100,6 +100,12 @@ Project presentations (by email)
 [nlpguide.github.io](https://nlpguide.github.io)  
 [nlpguide.github.io/2017](https://nlpguide.github.io/2017)  
 
+**XVI**  
+NLP vs general DL  
+Norvig [*On Chomsky and the Two Cultures of Statistical Learning*](http://norvig.com/chomsky.html) 2011  
+[*Yann LeCun and Christopher Manning discuss Deep Learning and Innate Priors*
+](https://www.youtube.com/watch?v=fKk9KhGRBdI) 2018
+
 ## Материалы
 
 [*Linguistic Fundamentals for Natural Language Processing: 100 Essentials from Morphology and Syntax*](http://www.morganclaypool.com/doi/abs/10.2200/S00493ED1V01Y201303HLT020)  
