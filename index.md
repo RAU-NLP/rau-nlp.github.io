@@ -101,8 +101,8 @@ Project presentations (by email)
 [nlpguide.github.io/2017](https://nlpguide.github.io/2017)  
 
 **XVI**  
-NLP vs general DL  
-Who is Chomsky?  Who is Norvig?  Who is Manning?  Who is LeCun?  
+How do industry giants build systems for the top 100-200 languages?  
+NLP vs general DL: Who is Chomsky?  Who is Norvig?  Who is Manning?  Who is LeCun?  
 [*On Chomsky and the Two Cultures of Statistical Learning*](http://norvig.com/chomsky.html) Norvig 2011  
 [*Yann LeCun and Christopher Manning discuss Deep Learning and Innate Priors*
 ](https://www.youtube.com/watch?v=fKk9KhGRBdI) 2018
