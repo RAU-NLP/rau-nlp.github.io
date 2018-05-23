@@ -102,7 +102,8 @@ Project presentations (by email)
 
 **XVI**  
 NLP vs general DL  
-Norvig [*On Chomsky and the Two Cultures of Statistical Learning*](http://norvig.com/chomsky.html) 2011  
+Who is Chomsky?  Who is Norvig?  Who is Manning?  Who is LeCun?  
+[*On Chomsky and the Two Cultures of Statistical Learning*](http://norvig.com/chomsky.html) Norvig 2011  
 [*Yann LeCun and Christopher Manning discuss Deep Learning and Innate Priors*
 ](https://www.youtube.com/watch?v=fKk9KhGRBdI) 2018
 
