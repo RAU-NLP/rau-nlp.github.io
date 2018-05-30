@@ -29,6 +29,13 @@
 Harutyun Shmavonyan  
 [github.com/harutyun3172800/Misclassification_detector](https://github.com/harutyun3172800/Misclassification_detector)
 
+### ModelJack
+Nerses Nersesyan  
+[github.com/nerses0/ModelJack](https://github.com/nerses0/ModelJack)
+
+### Universal Transliteration
+Tigran Mardanyan    
+
 ## уроки и задания
 
 **I неделя**  
